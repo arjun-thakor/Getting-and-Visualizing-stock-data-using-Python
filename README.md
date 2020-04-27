@@ -2,7 +2,7 @@
 
 This code explores the yfinance library to get stock data from yahoo finance, and altair to visualize the data.
 
-![](file:///C:/Users/Arjun%20Thakor%20.LAPTOP-RD30UVRB/Desktop/jupyter%20notebooks/Chart.png)
+![](Chart.png)
 
 ## Installation
 
